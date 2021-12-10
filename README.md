@@ -15,7 +15,8 @@ _May the flames guide you, Ashen One!_
   <img align="center" height"60" src="https://img.icons8.com/fluency/48/000000/flask.png"/>
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="60" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img align="center" height="60" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>  
+  <img align="center" height="60" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+  <img align="center" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
  
 ##
