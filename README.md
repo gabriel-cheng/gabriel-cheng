@@ -1,7 +1,7 @@
 _May the flames guide you, Ashen One!_
 
-- 🔭 Atualmente, buscando uma vaga no mercado de trabalho...
-- 🌱 Estudando Python/Flask/C/C++
+- 🔭 Desenvolvedor Web na Citybens
+- 🌱 Estudando PHP/Laravel
 - 🎮 Gamer nas horas vagas
 -  ⚔ Fã de um bom RPG, Souls Like é vida.
 
