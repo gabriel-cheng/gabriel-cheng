@@ -21,7 +21,7 @@ _May the flames guide you, Ashen One!_
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 </div>
 <br>
-<div class="contador-visitas">
+<div align="center">
   <p align="center">
     <h5>CONTADOR DE VISITAS</h5>
     <img align="center" src="https://profile-counter.glitch.me/gabriel-cheng/count.svg" />
