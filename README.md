@@ -37,6 +37,6 @@ _May the flames guide you, Ashen One!_
 </p>
 
 <div align="center">
-  <img height="500" src="https://c.tenor.com/gLeA75nYw8IAAAAd/skyrim-horse.gif" />
-  <img height="500" src="https://steamuserimages-a.akamaihd.net/ugc/949596687984849134/E8F0E54013A3693BF9FF54801D5EABA4C114FF5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+  <img width="100" height="100" src="https://c.tenor.com/gLeA75nYw8IAAAAd/skyrim-horse.gif" />
+  <img width="100" height="100" src="https://steamuserimages-a.akamaihd.net/ugc/949596687984849134/E8F0E54013A3693BF9FF54801D5EABA4C114FF5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 </div>
