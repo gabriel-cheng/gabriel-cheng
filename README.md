@@ -1,6 +1,6 @@
 _May the flames guide you, Ashen One!_
 
-- 🔭 Desenvolvedor Web na Citybens
+- 🔭 Desenvolvedor Web na Citybens & SolarBens
 - 🌱 Estudando PHP/Laravel
 - 🎮 Gamer nas horas vagas
 -  ⚔ Fã de um bom RPG, Souls Like é vida.
