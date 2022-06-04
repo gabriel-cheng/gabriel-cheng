@@ -23,4 +23,4 @@ _May the flames guide you, Ashen One!_
  
 ##
 
-<img style="display: flex; justify-content: center; align-items: center;" height="" src="https://steamuserimages-a.akamaihd.net/ugc/2419998083514404572/A1E608E72073532552C0A5B5A7E579CAD331B945/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+<img height="1000px" src="https://i.pinimg.com/originals/de/7e/63/de7e63d9ebdbe909a53e4c9facfa4ce6.gif"/>
