@@ -11,14 +11,16 @@ _May the flames guide you, Ashen One!_
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-cheng&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center"><br>
+  
+  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>  
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" height="60" src="https://img.icons8.com/fluency/48/000000/flask.png"/>
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height="60" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" height="60" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 </div>
 <br>
 <div align="center">
