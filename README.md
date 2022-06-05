@@ -58,6 +58,4 @@
 
 <div align="center">
   <img width="300px" height="300px" src="https://steamuserimages-a.akamaihd.net/ugc/949596687984849134/E8F0E54013A3693BF9FF54801D5EABA4C114FF5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-  <img width="300px" height="180px" src="https://media0.giphy.com/media/aT2Vf6tJaRyCssznlz/giphy-downsized-large.gif" />
-  <img width="300px" height="180px" src="https://i.pinimg.com/originals/29/dc/e1/29dce1599a130ff4a2ff063f58dba359.gif"/>
 </div>
