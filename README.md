@@ -57,5 +57,5 @@
 <br>
 
 <div align="center">
-  <img width="300px" height="300px" src="https://steamuserimages-a.akamaihd.net/ugc/949596687984849134/E8F0E54013A3693BF9FF54801D5EABA4C114FF5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+  <img width="500px" height="500px" src="https://steamuserimages-a.akamaihd.net/ugc/949596687984849134/E8F0E54013A3693BF9FF54801D5EABA4C114FF5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </div>
