@@ -10,7 +10,7 @@
 <div>
   <ul>
     <li> - 🔭 Desenvolvedor Web na Citybens & SolarBens</li>
-    <li> - 🌱 Estudando PHP & Laravel</li>
+    <li> - 🌱 Estudando Node.JS</li>
     <li> - 🎮 Gamer nas horas vagas</li>
     <li> - ⚔ Fã de um bom RPG</li>
     <li> - ⚔ Souls Like é vida!</li>
