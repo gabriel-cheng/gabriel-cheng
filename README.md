@@ -10,10 +10,13 @@
 <div>
   <ul>
     <li> - 🔭 Desenvolvedor Web na Citybens & SolarBens</li>
+    <br>
     <li> - 🌱 Estudando Node.JS</li>
+    <br>
     <li> - 🎮 Gamer nas horas vagas</li>
+    <br>
     <li> - ⚔ Fã de um bom RPG</li>
-    <li> - ⚔ Souls Like é vida!</li>
+    <li> - <img width="45" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf98dc1b-94a6-4ac2-b881-cbf514925346/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmOThkYzFiLTk0YTYtNGFjMi1iODgxLWNiZjUxNDkyNTM0NlwvZGNtYmgxMy0zMWJlNTg4YS1kN2MyLTQ1MTgtYjcxNC03ZjBhYTQxYjc4OTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EpchT1Zh3h8_wPhSy5h6ibXTPaWgoMSYbc--yIQfx5k" /> Souls Like é vida!</li>
   </ul>  
 </div>
 
