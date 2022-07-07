@@ -35,10 +35,10 @@
 <div align="center"><br>  
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>  
+  <img align="center" height="60" src="https://logospng.org/download/javascript/logo-javascript-1024.png"/>
+  <img align="center" height="55" src="https://blog.4linux.com.br/wp-content/uploads/2019/12/node-js-1900x950_c.png"/>
+  <img align="center" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/>  
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" height="60" src="https://img.icons8.com/fluency/48/000000/flask.png"/>
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height="60" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" height="60" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
