@@ -11,7 +11,7 @@
   <ul>
     <li> - 🔭 Desenvolvedor Web na Citybens & SolarBens</li>
     <br>
-    <li> - 🌱 Estudando Node.js e Vue.js</li>
+    <li> - 🌱 Estudando Typescript</li>
     <br>
     <li> - 🎮 Gamer nas horas vagas</li>
     <br>
