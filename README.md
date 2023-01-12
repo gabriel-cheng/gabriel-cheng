@@ -23,6 +23,18 @@
 <br>
 <br>
 
+<div align="center">
+  <a href="https://gabrielcarvalho.tech">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISUALIZAR-blue&?style=for-the-badge&logo=appveyor"></img>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-henrique-ita/">
+    <img src="https://img.shields.io/badge/LINKEDIN-VISUALIZAR-blue&?style=for-the-badge&logo=linkedin"></img>
+  </a>
+</div>
+
+<br>
+<br>
+
 <div align="center">  
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-cheng&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-cheng&layout=compact&langs_count=7&theme=radical"/>
