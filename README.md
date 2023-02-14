@@ -8,18 +8,11 @@
 <br>
 
 <div>
-  <ul>
-    <li> - 🔭 Desenvolvedor Web na Citybens & SolarBens</li>
-    <br>
-    <li> - 🌱 Estudando Typescript</li>
-    <br>
-    <li> - 🎮 Gamer nas horas vagas</li>
-    <br>
-    <li> - ⚔ Fã de um bom RPG</li>
-    <br>
-    <li> - ☠️ Ethical Hacker Begginer
-    <li> - <img width="45" height="45" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf98dc1b-94a6-4ac2-b881-cbf514925346/dcmbh13-31be588a-d7c2-4518-b714-7f0aa41b7895.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmOThkYzFiLTk0YTYtNGFjMi1iODgxLWNiZjUxNDkyNTM0NlwvZGNtYmgxMy0zMWJlNTg4YS1kN2MyLTQ1MTgtYjcxNC03ZjBhYTQxYjc4OTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EpchT1Zh3h8_wPhSy5h6ibXTPaWgoMSYbc--yIQfx5k" /> Souls Like é vida!</li>
-  </ul>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Desenvolvedor+Web+na+Citybens+%26+Solarbens" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Estudando+Typescript" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Gamer+nas+horas+vagas" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=F%C3%A3+nato+de+um+bom+Souls+Like" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Ethical+Hacker+Begginer" alt="Typing SVG" /></a><br>
 </div>
 
 <br>
@@ -62,7 +55,7 @@
   <img align="center" height="60" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" height="60" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 </div>
-  
+
 <br>
 <br>
   
