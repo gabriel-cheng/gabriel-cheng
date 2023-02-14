@@ -7,6 +7,18 @@
 <br>
 <br>
 
+<div align="center">
+  <img align="left" height="150em" src="https://giffiles.alphacoders.com/146/14693.gif" />
+  <img align="center" height="150em" src="https://giffiles.alphacoders.com/146/14623.gif" />
+</div>
+
+<div align="center">
+  <i>plim plim plom...♫</i>
+</div>
+
+<br>
+<br>
+
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Desenvolvedor+Web+na+Citybens+%26+Solarbens" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Estudando+Typescript" alt="Typing SVG" /></a><br>
