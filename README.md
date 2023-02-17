@@ -20,11 +20,10 @@
 <br>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Desenvolvedor+Web+na+Citybens+%26+Solarbens" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Estudando+Typescript" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Gamer+nas+horas+vagas" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=F%C3%A3+nato+de+um+bom+Souls+Like" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=5000&color=30F700&width=435&lines=Ethical+Hacker+Begginer" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=10000&color=30F700&width=435&lines=%7B%22developerAt%22%3A+%22Citybes+%26+Solarbens%22%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=10000&color=30F700&width=435&lines=%7B%22favouriteLanguages%22%3A+%5B%22Typescript%22%2C+%22Python%22%5D%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=10000&color=30F700&width=435&lines=%7B%22hobbie%22%3A+%22I+like+play+a+Souls+Like+games%22%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=10000&color=30F700&width=435&lines=%7B%22anothers%22%3A+%22Ethical+Hacker+Begginer%22%7D" alt="Typing SVG" /></a><br>  
 </div>
 
 <br>
