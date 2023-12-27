@@ -24,7 +24,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22favourite_language%22%3A+%22Python%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22language_framework%22%3A+%22Flask%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Souls+Like+games%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22another_curious%22%3A+%22Ethical+Hacker+Begginer%22%7D" alt="Typing SVG" /></a><br>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22other_curiosities%22%3A+%22Ethical+Hacker+Begginer%22%7D" alt="Typing SVG" /></a><br>  
 </div>
 
 <br>
