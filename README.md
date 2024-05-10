@@ -1,6 +1,6 @@
 <p align="center">
   <img width="80" height="80" src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" />
-  <i>Ashen one... may the flames guide thee!</i>
+  <i>Farewell Ashen One... may the flames guide thee!</i>
   <img width="80" height="80" src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" />
 </p>
 
