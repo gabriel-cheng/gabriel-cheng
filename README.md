@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <a href="https://gabrielcarvalho.tech">
+  <a href="https://ogabrielcarvalho.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISUALIZAR-blue&?style=for-the-badge&logo=appveyor"></img>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-henrique-ita/">
