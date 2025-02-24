@@ -21,10 +21,9 @@
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22developer_at%22%3A+%22Citybens+%26+Solarbens%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22favourite_language%22%3A+%22JavaScript%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22language_framework%22%3A+%22Vue.js%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Souls+Like+games%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22other_curiosities%22%3A+%22Ethical+Hacker+Begginer%22%7D" alt="Typing SVG" /></a><br>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22favourite_language%22%3A+%22Java%22%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22language_framework%22%3A+%22Spring%22%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Soulslike+games%22%7D" alt="Typing SVG" /></a><br>  
 </div>
 
 <br>
@@ -57,15 +56,11 @@
 <br>
 <br>
 
-<div align="center"><br>
-  <img align="center" height="60" src="https://logospng.org/download/javascript/logo-javascript-1024.png"/>
-  <img align="center" height="55" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png"/>
-  <img align="center" height="55" src="https://blog.4linux.com.br/wp-content/uploads/2019/12/node-js-1900x950_c.png"/>
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" height="60" src="https://i.imgur.com/cpp6Xqy_d.webp?maxwidth=1520&fidelity=grand"/>
-  <img align="center" height="60" src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png"/>
-  <img align="center" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,javascript,vue,python,postgres" />
+  </a>
+</p>
 
 <br>
 <br>
