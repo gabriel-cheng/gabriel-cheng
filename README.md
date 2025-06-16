@@ -20,7 +20,7 @@
 <br>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22developer_at%22%3A+%22Citybens+%26+Solarbens%22%7D" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22developer_at%22%3A+%22Grupo+Citybens%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22favourite_language%22%3A+%22Java%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22language_framework%22%3A+%22Spring%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Soulslike+games%22%7D" alt="Typing SVG" /></a><br>  
