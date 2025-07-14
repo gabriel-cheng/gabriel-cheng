@@ -63,18 +63,6 @@
 
 <br>
 <br>
-  
-<div align="center">
-  <p align="center">
-    <h5>CONTADOR DE VISITAS</h5>
-    <img align="center" src="https://profile-counter.glitch.me/gabriel-cheng/count.svg" />
-  </p>
-</div>
- 
-##
-
-<br>
-<br>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/de/7e/63/de7e63d9ebdbe909a53e4c9facfa4ce6.gif" />
