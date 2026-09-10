@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabriel-cheng&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=gabriel-cheng&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark"/>
 </div>
   
 <br>
