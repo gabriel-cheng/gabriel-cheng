@@ -1,8 +1,14 @@
-<p align="center">
-  <img width="80" height="80" src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" />
-  <i>Farewell Ashen One... may the flames guide thee!</i>
-  <img width="80" height="80" src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" />
-</p>
+<div align="center">
+
+<img src="https://media.tenor.com/images/a35bf9ff94bd56039e5b2bf93acd4ad7/tenor.gif" width="90" />
+
+# Gabriel Carvalho
+
+### Fullstack Developer &nbsp;•&nbsp; Java & Spring Enjoyer &nbsp;•&nbsp; Soulslike Addict
+
+<i>"Farewell Ashen One... may the flames guide thee."</i>
+
+</div>
 
 <br>
 <br>
@@ -19,11 +25,10 @@
 <br>
 <br>
 
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22fullstack_developer_at%22%3A+%22Codes%22%7D" alt="Typing SVG" /></a><br>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22favourite_language%22%3A+%22Java%22%7D" alt="Typing SVG" /></a><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22language_framework%22%3A+%22Spring%22%7D" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Soulslike+games%22%7D" alt="Typing SVG" /></a><br>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=30F700&width=580&lines=%7B%22hobbie%22%3A+%22I+like+play+Soulslike+games%22%7D" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -55,11 +60,17 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,javascript,vue,docker,python" />
-  </a>
-</p>
+<div align="center">
+
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres" /></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=javascript,react,tailwind,vue" /></p>
+
+**DevOps & Ferramentas**
+<p><img src="https://skillicons.dev/icons?i=docker,git,kubernetes,nginx,rabbitmq" /></p>
+</div>
 
 <br>
 <br>
