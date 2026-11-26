@@ -4,7 +4,7 @@
 
 # Gabriel Carvalho
 
-### Fullstack Developer &nbsp;•&nbsp; Java & Spring Enjoyer &nbsp;•&nbsp; Soulslike Addict
+### Backend Software Engineer &nbsp;•&nbsp; Java & Spring Enjoyer &nbsp;•&nbsp; Soulslike Addict
 
 <i>"Farewell Ashen One... may the flames guide thee."</i>
 
